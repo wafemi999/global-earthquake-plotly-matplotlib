@@ -1,5 +1,5 @@
 # global-earthquake-plotly-matplotlib
 Data Visualization project
 
-Matplotlib
-Plotly
+1. Matplotlib
+2. Plotly
