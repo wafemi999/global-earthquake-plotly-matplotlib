@@ -1,4 +1,4 @@
-# global-earthquake-plotly-matplotlib
+# global-earthquake-plotly-matplotlib.
 
 Data Visualization project from python crash course by Eric Mattes:
 
